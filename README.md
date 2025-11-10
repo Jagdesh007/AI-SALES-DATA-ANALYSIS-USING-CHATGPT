@@ -48,6 +48,9 @@ PowerPoint & PDF Report Presentation
 
 📈 Results
 
+<img width="1600" height="1200" alt="demographic_heatmap" src="https://github.com/user-attachments/assets/79f59dc6-887a-4224-a6ca-089510663c9d" />
+
+
 The analysis supports investing primarily in Clothing, due to:
 
 Consistent demand across months
